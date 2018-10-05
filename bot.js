@@ -1,6 +1,6 @@
 const Discord = require("discord.js");
 const { Client, Util } = require('discord.js');
-var Canvas = require('canvas');
+var Canvas = require('canvas-prebuilt');
 var jimp = require('jimp');
 const fs = require("fs");
 const client = new Discord.Client();
